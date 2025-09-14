@@ -1,6 +1,6 @@
 # Noololly's website
 
-This is the repository for my new website. It may not be much, but its my first venture outside of boilerplate HTML
+This is the repository for my new website. It may not be much, but it's my first venture outside of boilerplate HTML
 
 # Making a build environment
 
@@ -14,5 +14,5 @@ cd site
 Install the packages and run
 ```bash
 npm install
-npm start
+npm run start
 ```
