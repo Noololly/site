@@ -11,7 +11,7 @@ export function createFooter(): string {
         </div>
         <a href="https://ctp-webr.ing/noololly/previous" class="footer-link" title="Catppuccin Previous">←</a>
         <a href="https://ctp-webr.ing/" class="footer-link" title="Catppuccin Webring">
-          <img src="../../public/catppuccin.png" alt="Catppuccin logo" class="footer-icon catppuccin-icon" />
+          <img src="/catppuccin.png" alt="Catppuccin logo" class="footer-icon catppuccin-icon" />
         </a>
         <a href="https://ctp-webr.ing/noololly/next" class="footer-link" title="Catppuccin Next">→</a>
         <div class="footer-social">
