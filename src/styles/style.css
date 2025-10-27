@@ -247,9 +247,7 @@ body {
     }
 }
 
-/* FIX: Add missing closing brace above to end the media query */
 
-/* Reinforce .pfp_image default size and ensure it is not affected by media query issues */
 .pfp_image {
     position: relative;
     top: 0;
@@ -269,7 +267,6 @@ body {
     box-shadow: 0 8px 32px 0 rgba(203, 166, 247, 0.25);
 }
 
-/* Reinforce footer flexbox and overflow rules */
 .footer-links {
     display: flex;
     flex-direction: row;

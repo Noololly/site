@@ -1,0 +1,89 @@
+@import 'tailwindcss';
+
+
+:root {
+    background-color: #242424;
+    font-family: Corbel, system-ui, sans-serif;
+    color: white;
+}
+
+body {
+    margin: 0;
+    min-width: 320px;
+    min-height: 100vh;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 4rem;
+    text-align: center;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    text-align: center;
+}
+
+
+
+.card-columns {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 20px;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.card {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    border: 4px solid white;
+    border-radius: 10px;
+    padding: 20px;
+    width: 300px;
+    margin-bottom: 20px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.card .left {
+    width: 100%;
+    text-align: center;
+}
+
+.card .right {
+    width: 100%;
+    text-align: center;
+}
+
+.link {
+    display: block;
+    width: 100%;
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+}
+
+.link h3 {
+    margin: 0;
+    transition: text-decoration-color 0.15s ease;
+}
+
+.link:hover h3,
+.link:focus h3 {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+}
