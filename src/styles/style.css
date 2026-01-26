@@ -294,3 +294,7 @@ body {
     filter: drop-shadow(0 0 2px #cba6f7);
     padding: 2px;
 }
+
+.lil-pic {
+    margin-top: 100px;
+}

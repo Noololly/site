@@ -16,6 +16,9 @@ function createMainPage(): void {
           <p class="intro-text">My name is olly :) make yourself at home in my webpage!</p>
         </main>
         <div class="background-animated"></div>
+        <div class="lil-pic">
+            <img src="https://prpl.wtf/img/88x31/prpl_wtf.gif" alt="emma's 88x31">
+        </div>
       </header>
       ${createFooter()}
     </div>
