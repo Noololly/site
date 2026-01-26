@@ -17,10 +17,11 @@ function createMainPage(): void {
         </main>
         <div class="background-animated"></div>
         <div class="lil-pic">
-            <img src="https://prpl.wtf/img/88x31/prpl_wtf.gif" alt="emma's 88x31">
-            <a href="https://milkcool.ru">
-                <img src="lilysbutton.gif" alt="lily's site">
-            </a>
+            <img src="OllysButton.gif" alt="My Button <3">
+            <a href="https://prpl.wtf/"><img src="https://prpl.wtf/img/88x31/prpl_wtf.gif" alt="emma's 88x31"></a>
+            <a href="https://milkcool.ru"><img src="lilysbutton.gif" alt="lily's site"></a>
+            <a href="https://www.thefrog.me/"><img src="FrogButton.gif" alt="Frog's 88x31"></a>
+            <a href="https://arcaege.dev/"><img src="arcasbutton.png" alt="arcas 88x31"></a>
         </div>
       </header>
       ${createFooter()}
