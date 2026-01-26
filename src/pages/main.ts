@@ -18,6 +18,9 @@ function createMainPage(): void {
         <div class="background-animated"></div>
         <div class="lil-pic">
             <img src="https://prpl.wtf/img/88x31/prpl_wtf.gif" alt="emma's 88x31">
+            <a href="https://milkcool.ru">
+                <img src="lilysbutton.gif" alt="lily's site">
+            </a>
         </div>
       </header>
       ${createFooter()}
