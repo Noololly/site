@@ -18,6 +18,7 @@ function createMainPage(): void {
         <div class="background-animated"></div>
         <div class="lil-pic">
             <img src="ACE.gif" alt="Welcome to Olly's site">
+            <img src="NB.gif" alt="Who needs gender?">
             <img src="OllysButton.gif" alt="My Button <3">
             <a href="https://prpl.wtf/"><img src="https://prpl.wtf/img/88x31/prpl_wtf.gif" alt="emma's 88x31"></a>
             <a href="https://milkcool.ru"><img src="lilysbutton.gif" alt="lily's site"></a>
