@@ -4,9 +4,13 @@ export function createFooter(): string {
     <footer class="site-footer">
       <div class="footer-links">
         <div id="webring-wrapper" style="padding-left: 20px; padding-right: 20px; display: flex; align-items: center;">
-          <a href="https://webring.hackclub.com/" id="previousBtn" class="webring-anchor" title="Previous">‹</a>
-          <a href="https://webring.hackclub.com/" class="webring-logo" title="Hack Club Webring"></a>
-          <a href="https://webring.hackclub.com/" id="nextBtn" class="webring-anchor" title="Next">›</a>
+          <iframe
+          src="https://webring.hackclub.com/embed.html"
+          width="150"
+          height="50"
+          frameborder="0"
+          scrolling="no"
+          ></iframe>
           <script src="https://webring.hackclub.com/embed.min.js"></script>
         </div>
         <a href="https://ctp-webr.ing/noololly/previous" class="footer-link" title="Catppuccin Previous">←</a>
