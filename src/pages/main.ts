@@ -24,7 +24,7 @@ function createMainPage(): void {
             <a href="https://milkcool.ru"><img src="lilysbutton.gif" alt="lily's site"></a>
             <a href="https://www.thefrog.me/"><img src="FrogButton.gif" alt="Frog's 88x31"></a>
             <a href="https://arcaege.dev/"><img src="arcasbutton.png" alt="arcas 88x31"></a>
-            <iframe src="//incr.easrng.net/badge?key=changeme" style="background: url(//incr.easrng.net/bg.gif)" title="increment badge" width="88" height="31" frameborder="0"></iframe>
+            <iframe src="//incr.easrng.net/badge?key=noololly" style="background: url(//incr.easrng.net/bg.gif)" title="increment badge" width="88" height="31" frameborder="0"></iframe>
         </div>
       </header>
       ${createFooter()}
